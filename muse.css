@@ -1,0 +1,31 @@
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+img {
+	height:700px;
+	width:600px;
+	float:right;
+	
+}
+#db p {
+	height:100px;
+	width:800px;
+	background-color:#f0ffff;
+	text-align:justify;
+	text-transform:normal;
+	float:left;
+	border-width:10px;
+	border-color:black;
+	border-bottom-style:normal;
+	
+}
+
+#db  img{
+	height:400px;
+	width:800px;
+	float:left;
+	
+	
+}
